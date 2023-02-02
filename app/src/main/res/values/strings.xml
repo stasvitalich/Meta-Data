@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MetaData</string>
+    <string name="EmptyField">Empty Field</string>
+    <string name="CharachtersInPhone">These symbols aren\'t allowed</string>
+    <string name="required">*required</string>
+    <string name="name">name</string>
+    <string name="OnlyDigitsInPhone">Only DigitsIn</string>
+    <string name="PhoneNumberDigit">11 digits required</string>
+    <string name="FirstDigits">Enter the first 8 digits of a card number (BIN/IIN)</string>
 </resources>
