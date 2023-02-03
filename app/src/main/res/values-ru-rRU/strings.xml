@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MetaData</string>
+    <string name="app_name">Мета данные</string>
     <string name="EmptyField">Поле не заполнено</string>
-    <string name="CharachtersInPhone">Недопустимые символы</string>
+    <string name="CharachtersInNumber">Недопустимые символы</string>
     <string name="required">*обязательное поле</string>
     <string name="name">имя</string>
-    <string name="OnlyDigitsInPhone">Только цифры</string>
-    <string name="PhoneNumberDigit">11 цифр требуется</string>
-    <string name="FirstDigits">"Введите первые 8 цифр карты (BIN/IIN) "</string>
+    <string name="OnlyDigitsInCard">Разрешены только цифры</string>
+    <string name="CardNumberDigit">Требуется 8 цифр</string>
+    <string name="FirstDigits">"Введите BIN/IIN "</string>
+
 </resources>
